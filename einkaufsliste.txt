@@ -3,3 +3,7 @@ Einkaufsliste:
 Schokomilch
 Müsli
 Apfel
+
+Weiteres:
+- Schokomilch
+- Bananen
