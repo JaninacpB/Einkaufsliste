@@ -1,6 +1,8 @@
 
 # Lebenslauf
 
+![Profilbild](https://i.pinimg.com/originals/08/61/b7/0861b76ad6e3b156c2b9d61feb6af864.jpg "Profilbild")
+
 ### Persönliche Daten
 
 **Name:** Janina B
